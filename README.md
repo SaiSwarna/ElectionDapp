@@ -1,2 +1,9 @@
 # ElectionDapp
-A simple Online Voting System using Blockchain and access to SQL and MongoDb
+A client-based decentralized application for Online voting system using Ethereum, Truffle framework and Solidity.
+
+- HTML
+- CSS
+- Solidity
+- JavaScript
+- MySQL
+- MongoDB
